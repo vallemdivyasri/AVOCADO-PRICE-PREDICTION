@@ -46,8 +46,11 @@ Best Model: Random Forest Regressor
 The Random Forest Regressor outperformed other models with the following metrics:
 
 R² Score: 0.90
+
 RMSE: 0.12
+
 MAE: 0.09
+
 MSE: 0.16
 
 ## Results
